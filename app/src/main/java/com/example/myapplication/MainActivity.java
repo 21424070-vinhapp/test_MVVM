@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         }
         addview();
         mDataviewmodel.setContacts(cursor);
+        //ajfbsakjdkasvf
     }
 
     private void addview() {
